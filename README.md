@@ -1,0 +1,1 @@
+# mangakatana-playwright-chapter-downloader
